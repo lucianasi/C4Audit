@@ -7,7 +7,7 @@ It was built from **Code4rena** audit contests (a large community-driven securit
 
 ---
 
-**C4Audit-Reports**": Contains a folder named `reports_parser`. For each audit, there is a report (e.g., `reports_parser/2025-03-silo-finance/` contains the report for this audit). The names of the directories are based on the report identifier: [https://code4rena.com/reports/2025-03-silo-finance](https://code4rena.com/reports/2025-03-silo-finance)
+**C4Audit-Reports**: Contains a folder named `reports_parser`. For each audit, there is a report (e.g., `reports_parser/2025-03-silo-finance/` contains the report for this audit). The names of the directories are based on the report identifier: [https://code4rena.com/reports/2025-03-silo-finance](https://code4rena.com/reports/2025-03-silo-finance)
 
 
 **C4Audit-Repos**: Contains a folder named `repositories`. Similarly, we followed the same structure for the repositories to allow identifying the code for the respective report.
