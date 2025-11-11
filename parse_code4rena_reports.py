@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """
-Code4rena Report Parser (refactored)
+Refactoring Code4rena Report Parser:
 - Reads URLs from a .txt file
 - Extracts scope (repository, contracts, LOC)
 - Extracts issues (High, Medium, Low, etc.)
 - Ignores reports without <h1 id="scope"> or without Solidity mention
+Issues was too long
 """
 
 import requests
