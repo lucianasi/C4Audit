@@ -1,4 +1,6 @@
 
+**Dataset**: C4Audit is publicly available at Zenodo: https://doi.org/10.5281/zenodo.17571170
+
 # **C4Audit – Dataset Description**
 
 **C4Audit** is a curated, structured dataset that bridges real-world smart contract audit reports with their corresponding source code and quantitative code metrics.
