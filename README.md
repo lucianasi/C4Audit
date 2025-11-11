@@ -164,7 +164,7 @@ This information is aggregated into the final dataset-level statistics.
 
 * 342 audits
 * ≈10k smart contracts as code (including test contracts)
-* ≈16k test files (`.sol`, `.py`, `.ts`, `.js`)
+* 15k+ test files (`.sol`, `.py`, `.ts`, `.js`)
 * ≈6k deployment scripts
 
 **Linkage**: Ground-truth vulnerabilities mapped to actual source code and metrics.
